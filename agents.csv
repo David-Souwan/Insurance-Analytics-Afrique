@@ -1,0 +1,301 @@
+agent_id,region,experience_years
+1,Sénégal,6
+2,Maroc,11
+3,Côte d’Ivoire,10
+4,Côte d’Ivoire,9
+5,Nigeria,1
+6,Côte d’Ivoire,6
+7,Maroc,9
+8,Kenya,11
+9,Kenya,4
+10,Nigeria,11
+11,Maroc,12
+12,Maroc,2
+13,Côte d’Ivoire,13
+14,Maroc,4
+15,Sénégal,1
+16,Côte d’Ivoire,3
+17,Sénégal,10
+18,Nigeria,9
+19,Kenya,10
+20,Nigeria,5
+21,Kenya,11
+22,Nigeria,6
+23,Maroc,3
+24,Sénégal,5
+25,Kenya,11
+26,Côte d’Ivoire,8
+27,Sénégal,6
+28,Côte d’Ivoire,4
+29,Sénégal,2
+30,Sénégal,14
+31,Nigeria,9
+32,Kenya,13
+33,Kenya,12
+34,Sénégal,1
+35,Maroc,1
+36,Maroc,13
+37,Côte d’Ivoire,4
+38,Côte d’Ivoire,7
+39,Nigeria,1
+40,Sénégal,9
+41,Côte d’Ivoire,4
+42,Côte d’Ivoire,3
+43,Sénégal,1
+44,Nigeria,10
+45,Côte d’Ivoire,4
+46,Nigeria,9
+47,Kenya,13
+48,Nigeria,14
+49,Maroc,10
+50,Maroc,6
+51,Nigeria,6
+52,Maroc,1
+53,Kenya,10
+54,Sénégal,2
+55,Maroc,11
+56,Maroc,6
+57,Nigeria,2
+58,Kenya,3
+59,Sénégal,4
+60,Nigeria,11
+61,Nigeria,5
+62,Kenya,9
+63,Sénégal,12
+64,Kenya,4
+65,Sénégal,13
+66,Kenya,11
+67,Nigeria,9
+68,Nigeria,11
+69,Côte d’Ivoire,10
+70,Maroc,3
+71,Kenya,8
+72,Côte d’Ivoire,12
+73,Maroc,1
+74,Kenya,11
+75,Sénégal,9
+76,Maroc,9
+77,Nigeria,10
+78,Côte d’Ivoire,2
+79,Maroc,4
+80,Maroc,13
+81,Nigeria,8
+82,Kenya,7
+83,Sénégal,1
+84,Nigeria,5
+85,Sénégal,7
+86,Kenya,4
+87,Maroc,1
+88,Sénégal,9
+89,Côte d’Ivoire,14
+90,Côte d’Ivoire,5
+91,Nigeria,11
+92,Kenya,2
+93,Nigeria,8
+94,Nigeria,11
+95,Nigeria,13
+96,Côte d’Ivoire,2
+97,Côte d’Ivoire,3
+98,Nigeria,14
+99,Côte d’Ivoire,10
+100,Kenya,1
+101,Nigeria,11
+102,Côte d’Ivoire,2
+103,Sénégal,14
+104,Nigeria,7
+105,Nigeria,10
+106,Kenya,2
+107,Maroc,6
+108,Maroc,3
+109,Kenya,4
+110,Kenya,11
+111,Kenya,13
+112,Maroc,8
+113,Kenya,14
+114,Côte d’Ivoire,3
+115,Nigeria,10
+116,Nigeria,6
+117,Sénégal,1
+118,Sénégal,7
+119,Nigeria,8
+120,Côte d’Ivoire,11
+121,Maroc,14
+122,Maroc,8
+123,Côte d’Ivoire,3
+124,Maroc,14
+125,Kenya,10
+126,Nigeria,1
+127,Nigeria,9
+128,Côte d’Ivoire,13
+129,Maroc,6
+130,Sénégal,11
+131,Sénégal,9
+132,Maroc,7
+133,Sénégal,1
+134,Côte d’Ivoire,12
+135,Côte d’Ivoire,12
+136,Maroc,1
+137,Sénégal,6
+138,Côte d’Ivoire,5
+139,Côte d’Ivoire,9
+140,Kenya,2
+141,Kenya,8
+142,Côte d’Ivoire,11
+143,Maroc,5
+144,Nigeria,2
+145,Nigeria,13
+146,Côte d’Ivoire,10
+147,Côte d’Ivoire,11
+148,Côte d’Ivoire,11
+149,Maroc,12
+150,Kenya,6
+151,Côte d’Ivoire,10
+152,Côte d’Ivoire,8
+153,Sénégal,4
+154,Maroc,2
+155,Côte d’Ivoire,12
+156,Sénégal,11
+157,Nigeria,5
+158,Côte d’Ivoire,12
+159,Côte d’Ivoire,2
+160,Sénégal,2
+161,Maroc,6
+162,Côte d’Ivoire,11
+163,Nigeria,10
+164,Côte d’Ivoire,9
+165,Nigeria,13
+166,Kenya,4
+167,Kenya,6
+168,Nigeria,7
+169,Maroc,13
+170,Côte d’Ivoire,11
+171,Côte d’Ivoire,6
+172,Kenya,8
+173,Nigeria,4
+174,Côte d’Ivoire,12
+175,Côte d’Ivoire,1
+176,Maroc,7
+177,Sénégal,3
+178,Kenya,14
+179,Kenya,6
+180,Sénégal,2
+181,Côte d’Ivoire,9
+182,Maroc,1
+183,Maroc,6
+184,Kenya,6
+185,Maroc,5
+186,Sénégal,13
+187,Côte d’Ivoire,5
+188,Sénégal,1
+189,Nigeria,10
+190,Kenya,12
+191,Maroc,5
+192,Nigeria,2
+193,Maroc,7
+194,Côte d’Ivoire,3
+195,Côte d’Ivoire,13
+196,Côte d’Ivoire,4
+197,Maroc,3
+198,Nigeria,3
+199,Côte d’Ivoire,4
+200,Nigeria,5
+201,Maroc,1
+202,Nigeria,4
+203,Maroc,12
+204,Maroc,12
+205,Kenya,11
+206,Maroc,8
+207,Maroc,10
+208,Sénégal,7
+209,Côte d’Ivoire,9
+210,Kenya,5
+211,Kenya,13
+212,Kenya,10
+213,Sénégal,4
+214,Maroc,8
+215,Côte d’Ivoire,9
+216,Nigeria,13
+217,Maroc,7
+218,Sénégal,14
+219,Maroc,7
+220,Maroc,5
+221,Sénégal,4
+222,Kenya,14
+223,Kenya,10
+224,Côte d’Ivoire,1
+225,Côte d’Ivoire,10
+226,Kenya,10
+227,Nigeria,7
+228,Maroc,1
+229,Nigeria,1
+230,Maroc,5
+231,Kenya,13
+232,Côte d’Ivoire,9
+233,Côte d’Ivoire,6
+234,Nigeria,3
+235,Côte d’Ivoire,13
+236,Kenya,3
+237,Nigeria,7
+238,Maroc,6
+239,Côte d’Ivoire,9
+240,Sénégal,6
+241,Côte d’Ivoire,5
+242,Maroc,10
+243,Nigeria,7
+244,Maroc,1
+245,Sénégal,12
+246,Kenya,7
+247,Côte d’Ivoire,3
+248,Nigeria,14
+249,Kenya,9
+250,Maroc,6
+251,Nigeria,9
+252,Kenya,13
+253,Nigeria,5
+254,Sénégal,7
+255,Sénégal,13
+256,Côte d’Ivoire,14
+257,Côte d’Ivoire,4
+258,Sénégal,7
+259,Nigeria,13
+260,Sénégal,1
+261,Côte d’Ivoire,7
+262,Sénégal,8
+263,Sénégal,5
+264,Nigeria,2
+265,Kenya,5
+266,Côte d’Ivoire,6
+267,Nigeria,12
+268,Sénégal,2
+269,Sénégal,14
+270,Kenya,6
+271,Côte d’Ivoire,6
+272,Côte d’Ivoire,1
+273,Maroc,14
+274,Côte d’Ivoire,1
+275,Kenya,14
+276,Maroc,11
+277,Maroc,10
+278,Sénégal,3
+279,Sénégal,14
+280,Côte d’Ivoire,10
+281,Maroc,10
+282,Sénégal,12
+283,Kenya,3
+284,Sénégal,4
+285,Sénégal,2
+286,Maroc,9
+287,Maroc,10
+288,Nigeria,12
+289,Kenya,11
+290,Maroc,14
+291,Côte d’Ivoire,7
+292,Kenya,7
+293,Kenya,6
+294,Maroc,3
+295,Kenya,6
+296,Maroc,14
+297,Sénégal,12
+298,Nigeria,8
+299,Sénégal,8
+300,Maroc,11
