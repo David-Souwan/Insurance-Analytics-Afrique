@@ -112,7 +112,7 @@ insurance-analytics/
 
 ```bash
 # 1. Cloner le dépôt
-git clone https://github.com/votre-username/insurance-analytics.git
+git clone https://github.com/David-Souwan/insurance-analytics.git
 cd insurance-analytics
 
 # 2. Installer les dépendances
